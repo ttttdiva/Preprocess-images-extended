@@ -5,3 +5,5 @@ torchvision
 pytorch-lightning
 pillow
 opencv-python
+openmim
+anime-face-detector
